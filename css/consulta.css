@@ -7,7 +7,11 @@
 
 a {
     text-decoration: none;
-    color: black;
+    display: block;
+    padding: 35px 20px;
+    color: white;
+    font-size: 25px;
+    
 }
 
 body {
